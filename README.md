@@ -1,9 +1,3 @@
-https://pages.github.com/
-
-https://vercel.com/ frontend
-
-
-
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=beregaa.beregaa" />
 
 <h1 align="center">
@@ -73,6 +67,8 @@ https://vercel.com/ frontend
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
+<div align=center>
+ 
 [![](https://raw.githubusercontent.com/beregaa/beregaa/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/beregaa/beregaa/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/beregaa/beregaa/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/beregaa/beregaa/master/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/beregaa/beregaa/master/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
@@ -85,8 +81,8 @@ https://vercel.com/ frontend
 
 <br/>
 
-
-
+<div align="center">
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
 
 <br/>

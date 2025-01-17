@@ -14,8 +14,7 @@
  
  🌱 I’m currently learning **Nest.js, ServiceNow, AWS**
 
-💬 Ask me about **Node.js, React, Next.js, Nest.js... or anything [here](https://github.com/beregaa?tab=repositories)**
-
+💬 Ask me about **Node.js, React, Next.js, Nest.js... or anything<a href="(https://github.com/beregaa?tab=repositories" target="_blank"> [here] </a>
 ⚡ Fun fact: The first version of JavaScript was created in just 10 days by Brendan Eich in 1995!
 
  </div>

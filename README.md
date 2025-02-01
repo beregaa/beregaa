@@ -33,13 +33,13 @@
 <br/>
 <div align="center">  
     <h3>General Skills</h3>
-    <img src="https://skillicons.dev/icons?i=npm,js,ts,vscode,github" />
+    <img src="https://skillicons.dev/icons?i=npm,js,ts,vscode,github,postman" />
     <br>
     <h3>Frontend Skills</h3>
     <img src="https://skillicons.dev/icons?i=react,next,html,css,sass,figma,redux,bootstrap" />
     <br>
     <h3>Backend Skills</h3>
-    <img src="https://skillicons.dev/icons?i=nodejs,nest,express,mysql,postman" />
+    <img src="https://skillicons.dev/icons?i=nodejs,nest,express,mysql" />
     <br>
     <h3>Other Skills / DevOps</h3>
     <img src="https://skillicons.dev/icons?i=aws,git,vercel" />

@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **NewsPaper app**
  
- 🌱 I’m currently learning **Nest.js, ServiceNow, AWS**
+ 🌱 I’m currently learning **Nest.js, kubernet, AWS**
 
 ⚡ Fun fact: The first version of JavaScript was created in just 10 days by Brendan Eich in 1995!
 

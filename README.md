@@ -1,6 +1,6 @@
 <h1 align="center">David Beritashvili</h1>
 
-<h3 align="center">Full-stack developer focused on building practical web products and internal business tools.</h3>
+<h3 align="center">Frontend Developer focused on React, Next.js and practical web applications.</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/david-beritashvili/">
@@ -12,62 +12,44 @@
 
 ### About me
 
-- Previously worked as a frontend developer and tutor
-- Strongest experience with JavaScript, TypeScript, React and Next.js
-- Currently rebuilding my backend/full-stack skills through real projects
-- Interested in business software, automation, AI-assisted development and product building
-- Also working on an independent clothing brand project
+- Previous experience as a frontend developer and tutor
+- Strongest with JavaScript, TypeScript, React and Next.js
+- Comfortable consuming REST APIs and building data-driven interfaces
+- Some experience with NestJS, CRUD operations and basic authentication
+- Currently rebuilding my skills and expanding toward backend/full-stack development
 
-### Current focus
-
-- TypeScript / JavaScript
-- React / Next.js
-- Node.js / NestJS
-- PostgreSQL / relational databases
-- APIs and backend architecture
-- Docker and deployment
-- Practical AI integrations
-
-### Tech
+### Current stack
 
 **Frontend**  
 React · Next.js · TypeScript · JavaScript · HTML · CSS · Sass · Redux
 
-**Backend**  
-Node.js · NestJS · Express · REST APIs · MySQL
+**Backend exposure**  
+NestJS · REST APIs · MySQL
 
-**Tools / Deployment**  
-Git · GitHub · Postman · Vercel · AWS
+**Tools**  
+Git · GitHub · Postman · Vercel
 
 ---
 
-### What I'm building now
+### Currently learning
 
-I’m currently focusing on projects that solve real operational problems rather than tutorial clones.
+- Node.js fundamentals
+- NestJS fundamentals
+- PostgreSQL
+- Backend architecture
+- Authentication and authorization
+- Docker
+- AI-assisted development
 
-Examples of areas I’m interested in:
+---
 
-- internal business dashboards
-- job / worker management systems
-- inventory and expense tracking
+### What I'm building
+
+I’m focusing on practical projects that solve real business problems rather than tutorial clones.
+
+Current direction:
+- internal business tools
+- job / worker management
+- expense and material tracking
+- dashboards
 - workflow automation
-- AI-assisted business tools
-
----
-
-### Selected projects
-
-<!-- Replace these once you build/update them -->
-
-- **Business Operations Platform** — work in progress  
-  Job tracking, workers, expenses, materials and reporting
-
-- **Full-stack Chat Application**  
-  Built with React / Next.js and backend services
-
----
-
-### Contact
-
-LinkedIn:  
-https://www.linkedin.com/in/david-beritashvili/
